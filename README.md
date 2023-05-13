@@ -1,12 +1,12 @@
- ** Project Info: **
+ ** Project Info:**
 
 The contents of this repository showcase a data science project that covers the entire data science process, starting from collecting data to deploying the solution. The projects primary objective is to leverage data science techniques  
 to gain valuable insights into a practical issue and resolve it.
 
-** Project description**
+**Project description**
 
-This project is centered on addressing insert problem statement. The project utilizes data sourced from insert data source, which has undergone thorough cleaning, processing, and analysis to extract insights and develop a   
-predictive model. The predictive model has been constructed using insert algorithm, then assessed and optimized to achieve a high level of accuracy. Finally, the model has been deployed using insert platform/library.
+This project is centered on addressing **_insert problem statement_**. The project utilizes data sourced from insert data source, which has undergone thorough cleaning, processing, and analysis to extract insights and develop a   
+predictive model. The predictive model has been constructed using **_insert algorithm_**, then assessed and optimized to achieve a high level of accuracy. Finally, the model has been deployed using insert **_platform/library_**.
 
 **Conclusion**
 
